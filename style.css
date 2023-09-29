@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    display: inline-block;
+}
+
+button{
+    padding: 10px;
+    display:inline-block;
+    
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center;
+    height: 100vh; 
+}
